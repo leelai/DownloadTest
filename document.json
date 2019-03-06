@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "firmware": [
+    {
+      "model": "LighterBT",
+      "url": "https://leelai.000webhostapp.com/1.jpg",
+      "version": "1.0.0"
+    },
+    {
+      "model": "ble_2",
+      "url": "https://leelai.000webhostapp.com/2.jpeg",
+      "version": "1.1.2"
+    }
+  ]
+}
